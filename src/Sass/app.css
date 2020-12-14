@@ -1,0 +1,106 @@
+.header {
+  min-height: 20vh;
+  background-color: #32CD33;
+  margin-bottom: 0;
+}
+
+.header img {
+  width: 20%;
+  background-color: white;
+  margin-top: 4%;
+}
+
+.main-container {
+  min-height: 65vh;
+  padding-top: 3%;
+}
+
+.main-container .options-item {
+  margin-top: 5px;
+  margin-bottom: 5px;
+  background-color: #32CD33;
+  color: white;
+  margin-left: 5px;
+  margin-right: 5px;
+  min-height: 20vh;
+  border-radius: 10px;
+  padding: 7% 7% 7% 7%;
+  cursor: pointer;
+}
+
+.main-container .options-item .row {
+  margin-left: 0;
+  margin-right: 0;
+  font-size: 20px;
+  text-align: center;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.main-container .options-item .row span {
+  font-size: 25px;
+}
+
+.main-container .account-item {
+  margin-top: 5px;
+  margin-bottom: 5px;
+  background-color: #32CD33;
+  color: white;
+  margin-left: 5px;
+  margin-right: 5px;
+  min-height: 20vh;
+  border-radius: 10px;
+  padding: 7% 7% 7% 7%;
+  cursor: pointer;
+}
+
+.main-container .account-item .row {
+  margin-left: 0;
+  margin-right: 0;
+  font-size: 20px;
+  text-align: center;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.main-container .account-item .row span {
+  font-size: 25px;
+}
+
+.main-container .OptionsControlContainer .col-md-6 {
+  float: right;
+}
+
+.main-container .account-status-container {
+  text-align: center;
+}
+
+.main-container .account-status-container h2 {
+  font-size: 47px;
+  font-weight: bold;
+}
+
+.main-container .account-status-container .detail-information {
+  padding-top: 20px;
+  width: -webkit-fit-content;
+  width: -moz-fit-content;
+  width: fit-content;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: initial;
+}
+
+.footer {
+  min-height: 15vh;
+  margin-bottom: 0;
+}
+
+.footer .btn-theme {
+  width: 100px;
+  height: 60px;
+  border-radius: 10px;
+  background-color: #32CD33;
+  color: white;
+  margin-top: 40%;
+}
+/*# sourceMappingURL=app.css.map */
